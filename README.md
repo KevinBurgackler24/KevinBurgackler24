@@ -1,4 +1,4 @@
-- Hi, I’m @KevinBurgackler24
+- Hi, I’m @KevinBurgackler24 (also known as TechnoWizard)
 - I’m interested in technology, operating systems, virtual machines, etc. 
 - You can find my youtube channel here: https://www.youtube.com/channel/UCq589fqEmi0T2ngO90UUTmA I mainly cover videos on free and open source software, and how to use it
 - I’m currently learning how to use linux like a pro!
